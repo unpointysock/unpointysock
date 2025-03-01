@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unpointysock
 - 👀 I’m interested in ... data, gamedev
-- 🌱 I’m currently learning ... godot 4.0, html/css, javascript
+- 🌱 I’m currently learning ... godot, pixel art
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
